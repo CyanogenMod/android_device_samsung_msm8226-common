@@ -1,0 +1,2 @@
+git fetch -p origin
+git push --mirror
